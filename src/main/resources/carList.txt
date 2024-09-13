@@ -1,0 +1,30 @@
+The Tata Safari costs ₹2,500,000 rupees, and can tow loads weighing up to 2,500 kilograms.
+The Mahindra Thar costs ₹1,800,000 rupees, and can tow loads weighing up to 1,800 kilograms.
+The Toyota Fortuner costs ₹3,500,000 rupees, and can tow loads weighing up to 2,800 kilograms.
+The Hyundai Tucson costs ₹2,300,000 rupees, and can tow loads weighing up to 1,600 kilograms.
+The Maruti Suzuki Ertiga costs ₹1,200,000 rupees, and can tow loads weighing up to 1,200 kilograms.
+The Mahindra Scorpio costs ₹1,600,000 rupees, and can tow loads weighing up to 2,000 kilograms.
+The Toyota Hilux costs ₹4,500,000 rupees, and can tow loads weighing up to 3,500 kilograms.
+The Ford Endeavour costs ₹3,700,000 rupees, and can tow loads weighing up to 3,200 kilograms.
+The Kia Seltos costs ₹1,500,000 rupees, and can tow loads weighing up to 1,400 kilograms.
+The Nissan Magnite costs ₹1,000,000 rupees, and can tow loads weighing up to 1,000 kilograms.
+The Jeep Compass costs ₹2,700,000 rupees, and can tow loads weighing up to 2,200 kilograms.
+The Renault Duster costs ₹1,300,000 rupees, and can tow loads weighing up to 1,300 kilograms.
+The Tata Harrier costs ₹2,100,000 rupees, and can tow loads weighing up to 1,700 kilograms.
+The MG Hector costs ₹2,500,000 rupees, and can tow loads weighing up to 2,000 kilograms.
+The Ford Ranger costs ₹3,800,000 rupees, and can tow loads weighing up to 3,700 kilograms.
+The Isuzu D-Max costs ₹2,200,000 rupees, and can tow loads weighing up to 2,500 kilograms.
+The Volkswagen Taigun costs ₹1,600,000 rupees, and can tow loads weighing up to 1,300 kilograms.
+The Skoda Kushaq costs ₹1,700,000 rupees, and can tow loads weighing up to 1,200 kilograms.
+The Hyundai Creta costs ₹1,400,000 rupees, and can tow loads weighing up to 1,100 kilograms.
+The Tata Nexon costs ₹1,200,000 rupees, and can tow loads weighing up to 1,000 kilograms.
+The Mahindra XUV700 costs ₹2,800,000 rupees, and can tow loads weighing up to 2,400 kilograms.
+The Toyota Innova Crysta costs ₹2,200,000 rupees, and can tow loads weighing up to 1,800 kilograms.
+The Maruti Suzuki Grand Vitara costs ₹1,900,000 rupees, and can tow loads weighing up to 1,600 kilograms.
+The Hyundai Alcazar costs ₹2,100,000 rupees, and can tow loads weighing up to 1,400 kilograms.
+The Kia Carnival costs ₹3,400,000 rupees, and can tow loads weighing up to 2,200 kilograms.
+The MG Gloster costs ₹3,800,000 rupees, and can tow loads weighing up to 2,800 kilograms.
+The Tata Hexa costs ₹2,000,000 rupees, and can tow loads weighing up to 2,000 kilograms.
+The Nissan Terrano costs ₹1,500,000 rupees, and can tow loads weighing up to 1,300 kilograms.
+The Toyota Land Cruiser costs ₹5,000,000 rupees, and can tow loads weighing up to 4,500 kilograms.
+The Mahindra Bolero costs ₹900,000 rupees, and can tow loads weighing up to 1,200 kilograms.
