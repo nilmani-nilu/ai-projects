@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: First-Ai-Rag
+  ai:
+    openai:
+      api-key: ${OPEN_FIRST_AI} # Ensure this matches the environment variable name exactly
+      embedding:
+        options:
+          model: text-embedding-3-small
+sfg:
+  aiapp:
+    vectorStorePath: /tmp/vectorstore.json
+    documentsToLoad:
+      - classpath:/movies500.csv
+      - classpath:/climate.csv                                                                                                                                                                                                                                                                                               
